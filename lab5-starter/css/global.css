@@ -1,0 +1,58 @@
+/*Add the styling needed to match the mockup. Refer to the styleguide for font and color info*/
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f33947;
+}
+#content{
+    width: 50%;
+    margin: auto;
+    background-color: #D9C35A;
+    border: #333333 solid 5px;
+}
+#top{
+    background-color: #39D0F2;
+    color: #125DC0;
+    border-bottom: #333333 solid 5px;
+    padding: 16px;
+}
+#bottom{
+    background-color: #39D0F2;
+    color: #125DC0;
+    text-align: right;
+    border-top: #333333 solid 5px;
+    padding: 16px;
+}
+h1{
+    font-family: 'Luckiest Guy', cursive;
+    color: #125DC0;
+    background-color: #F2E85E;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    padding: 16px;
+}
+h2 {
+    font-family: 'Luckiest Guy', cursive;
+    color: #125DC0;
+    background-color: #F2E85E;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 16px;
+}
+p{
+    padding: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    width: 75%;
+    border: #333333 solid 5px;
+    margin: auto;
+    display: block;    
+}
+span{
+    font-style: italic;
+    font-size:  20px;
+}
